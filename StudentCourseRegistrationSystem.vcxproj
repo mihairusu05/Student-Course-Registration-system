@@ -130,7 +130,11 @@
     <ClCompile Include="StudentCourseRegistrationSystem.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Course.h" />
+    <ClInclude Include="JSONRepository.h" />
+    <ClInclude Include="Repository.h" />
     <ClInclude Include="Student.h" />
+    <ClInclude Include="CSVRepository.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

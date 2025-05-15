@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:StudentCourseRegistrationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.h",
+              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T16:33:49.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,10 +41,14 @@
               "RelativeDocumentMoniker": "StudentCourseRegistrationSystem.cpp",
               "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp",
               "RelativeToolTip": "StudentCourseRegistrationSystem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T15:55:12.742Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

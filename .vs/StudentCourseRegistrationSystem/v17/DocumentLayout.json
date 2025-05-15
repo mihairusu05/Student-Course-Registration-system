@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\JSONRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:JSONRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\CSVRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:CSVRepository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:StudentCourseRegistrationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,32 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JSONRepository.h",
+              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\JSONRepository.h",
+              "RelativeDocumentMoniker": "JSONRepository.h",
+              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\JSONRepository.h",
+              "RelativeToolTip": "JSONRepository.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T17:56:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Student.h",
               "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Student.h",
               "RelativeDocumentMoniker": "Student.h",
               "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Student.h",
               "RelativeToolTip": "Student.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-15T16:33:49.639Z",
+              "WhenOpened": "2025-05-15T17:48:43.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.h",
+              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Course.h",
+              "RelativeDocumentMoniker": "Course.h",
+              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Course.h",
+              "RelativeToolTip": "Course.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T17:46:10.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentCourseRegistrationSystem.cpp",
-              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp",
-              "RelativeDocumentMoniker": "StudentCourseRegistrationSystem.cpp",
-              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp",
-              "RelativeToolTip": "StudentCourseRegistrationSystem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-15T15:55:12.742Z",
+              "Title": "CSVRepository.h",
+              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\CSVRepository.h",
+              "RelativeDocumentMoniker": "CSVRepository.h",
+              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\CSVRepository.h",
+              "RelativeToolTip": "CSVRepository.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T17:43:49.063Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.h",
+              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Repository.h",
+              "RelativeDocumentMoniker": "Repository.h",
+              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\Repository.h",
+              "RelativeToolTip": "Repository.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T17:32:19.789Z",
+              "EditorCaption": ""
             }
           ]
         }
