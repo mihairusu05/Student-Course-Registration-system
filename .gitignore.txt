@@ -1,0 +1,60 @@
+## Ignore Visual Studio temporary files, build results, and cache
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.tmp
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*.ncb
+*.suo
+*.sdf
+*.ipch
+*.opensdf
+*.cachefile
+
+## Visual Studio folders
+.vs/
+Debug/
+Release/
+x64/
+x86/
+ipch/
+bin/
+build/
+[Bb]uild*/
+[Bb]in*/
+[Oo]bj*/
+
+## CMake-generated files (if using CMake later)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+## Other files and folders to ignore
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+
+# VS Code (optional)
+.vscode/
+
+# Backup & crash files
+*.bak
+*.tmp
+*.log
+
+# Optional: ignore personal settings or test output
+*.db
+*.csv
+*.out
+*.err
+
+# Ignore environment-specific settings
+*.local
