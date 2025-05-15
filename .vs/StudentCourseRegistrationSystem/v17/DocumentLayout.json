@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F187376A-05C8-49BD-BB21-FA24954437B6}|StudentCourseRegistrationSystem.vcxproj|solutionrelative:StudentCourseRegistrationSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentCourseRegistrationSystem.cpp",
+              "DocumentMoniker": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp",
+              "RelativeDocumentMoniker": "StudentCourseRegistrationSystem.cpp",
+              "ToolTip": "D:\\Info\\School\\OOP-Sem2\\StudentCourseRegistrationSystem\\StudentCourseRegistrationSystem.cpp",
+              "RelativeToolTip": "StudentCourseRegistrationSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T15:55:12.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
